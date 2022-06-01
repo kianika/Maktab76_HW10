@@ -1,0 +1,18 @@
+.ic {
+    padding: 30px;
+    font-size: 1.1rem !important;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: #0247FE;
+    color: azure;
+  }
+
+  input{
+      height: 4.5rem;
+      
+  }
+
+
