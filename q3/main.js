@@ -1,6 +1,6 @@
 function checkValidation(str){
     try{
-       let user = JSON.parse(str);
+       return JSON.parse(str);
     }
     catch(err){
         alert("JSON Error: " + err);
