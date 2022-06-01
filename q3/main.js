@@ -1,10 +1,10 @@
 function checkValidation(str){
     try{
-        JSON.parse(str)
+       let user = JSON.parse(str);
     }
     catch(err){
         alert("JSON Error: " + err);
     }
 }
 
-console.log(checkValidation('{"first_name":"Tony","last_name":"Hawk","age":31}'));
+console.log(checkValidation('{"name", "age": 30}'));
