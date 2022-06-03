@@ -13,3 +13,16 @@ hr{
     opacity: unset;
     margin: 0;
 }
+
+.icon{
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-group .btn{
+    opacity: 50% !important;
+}
