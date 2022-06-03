@@ -1,0 +1,28 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+.fa-github{
+    font-size: 3rem !important;
+}
+
+hr{
+    border-color:darkred;
+    border: 2px solid darkred;
+    background-color: rgb(197, 16, 16);
+    opacity: unset;
+    margin: 0;
+}
+
+.icon{
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-group .btn{
+    opacity: 50% !important;
+}
